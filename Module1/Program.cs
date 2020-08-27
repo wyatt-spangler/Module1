@@ -8,11 +8,15 @@ namespace Module1
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void Integers()
+        {
+            int x = 89;
+            Console.WriteLine(x);
+        }
+        // Outputs 89
+
+
     }
-    static void Main(string[] args)
-    {
-        int x = 89;
-        Console.WriteLine(x);
-    }
-    // Outputs 89
+
 }
