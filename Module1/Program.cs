@@ -9,4 +9,6 @@ namespace Module1
             Console.WriteLine("Hello World!");
         }
     }
+                int num:
+        num = 42;
 }
